@@ -15,3 +15,10 @@ $texturegroup skinfamilies
 { "tb2.bmp" } 
 { "tb3.bmp" }
 }
+
+$bodygroup hat
+{
+blank
+studio "hat_cube"
+studio "hat_cone"
+}
