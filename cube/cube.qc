@@ -4,7 +4,10 @@ $cdtexture "."
 $scale 1
 $cliptotextures
 $body studio cube
-$sequence idle "cube"
+
+$sequence idle "cube" fps 1 loop
+$sequence slide "slide" fps 60 loop
+$sequence spin "spin" fps 60 loop
 
 $texturegroup skinfamilies 
 {
